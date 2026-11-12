@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.drgamulchi.icujibak",
-        "sha256_cert_fingerprints": ["16:61:37:D4:BD:0A:9C:08:93:B2:E5:28:D2:77:DC:57:59:96:0F:A6:37:E6:D9:4F:3E:07:04:76:36:44:5D:B9"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.drgamulchi.icujibak",
+    "sha256_cert_fingerprints": [
+      "C3:8B:DB:2E:5C:A9:2C:11:49:15:09:30:39:F2:88:0A:0E:C3:89:D5:CA:F8:AA:06:B1:4F:F2:44:32:09:7C:AD",
+      "16:61:37:D4:BD:0A:9C:08:93:B2:E5:28:D2:77:DC:57:59:96:0F:A6:37:E6:D9:4F:3E:07:04:76:36:44:5D:B9"
+    ]
+  }
+}]
