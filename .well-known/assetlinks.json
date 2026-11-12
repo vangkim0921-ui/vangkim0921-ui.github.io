@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.drgamulchi.icujibak",
+        "sha256_cert_fingerprints": ["16:61:37:D4:BD:0A:9C:08:93:B2:E5:28:D2:77:DC:57:59:96:0F:A6:37:E6:D9:4F:3E:07:04:76:36:44:5D:B9"]
+      }
+    }]
